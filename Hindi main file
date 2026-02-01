@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>फ्लाई ऐश ब्रिक्स निर्माता | जाखड़ इंडस्ट्रीज बीकानेर</title>
+<meta name="description" content="जाखड़ इंडस्ट्रीज बीकानेर की भरोसेमंद फ्लाई ऐश ब्रिक्स फैक्ट्री है।">
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav class="navbar navbar-dark bg-dark p-3">
+<div class="container">
+<span class="navbar-brand">जाखड़ इंडस्ट्रीज</span>
+<div>
+<a href="index.html" class="btn btn-sm btn-light">English</a>
+</div>
+</div>
+</nav>
+
+<section class="hero text-center text-white p-5">
+<h1>फ्लाई ऐश ब्रिक्स निर्माता</h1>
+<p>मजबूत ईंटें, मजबूत भविष्य</p>
+</section>
+
+<section class="container p-4">
+<p>
+जाखड़ इंडस्ट्रीज एक विश्वसनीय फ्लाई ऐश ब्रिक्स मैन्युफैक्चरिंग यूनिट है,
+जो मजबूत और टिकाऊ ईंटें उपलब्ध कराती है।
+</p>
+<p>📞 9413474040 | 📧 jakharindustries1@gmail.com</p>
+</section>
+
+<footer class="bg-dark text-white text-center p-3">
+© 2026 जाखड़ इंडस्ट्रीज
+</footer>
+
+<a href="https://wa.me/919413474040" class="whatsapp">💬</a>
+
+</body>
+</html>
