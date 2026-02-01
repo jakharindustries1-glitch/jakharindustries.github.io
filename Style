@@ -1,0 +1,15 @@
+.hero{background:#0d6efd;}
+.whatsapp{
+position:fixed;
+bottom:20px;
+right:20px;
+background:#25D366;
+color:#fff;
+width:60px;
+height:60px;
+text-align:center;
+line-height:60px;
+border-radius:50%;
+font-size:30px;
+text-decoration:none;
+}
